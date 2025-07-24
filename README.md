@@ -8,7 +8,6 @@ mvn clean
 mvn install
 mvn spring-boot:run
 
-
 la ruta del servicio es 
 
 http://localhost:8080/timezone
